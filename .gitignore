@@ -1,1 +1,8 @@
-Nothing to output - the changes only include a README.md file which is a source/config file, and there are no build artifacts, dependencies, or temp files in the change list.
+*.ipynb_checkpoints/
+*.pyc
+__pycache__/
+*.log
+*.tmp
+.env
+.env.local
+*.env.*
