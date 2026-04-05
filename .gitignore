@@ -1,1 +1,25 @@
-Nothing to output - the changes only include a README.md file which is a source/config file, and there are no build artifacts, dependencies, or temp files in the change list.
+*.ipynb_checkpoints
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.pyc
+__pycache__/
+*.log
+*.tmp
+*.swp
+.env
+.env.local
+*.env.*
+coverage/
+htmlcov/
+.coverage
+.mypy_cache/
+.pytest_cache/
+dist/
+build/
+node_modules/
+.venv/
+venv/
+target/
+.gradle/
