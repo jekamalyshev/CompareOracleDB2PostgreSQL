@@ -1,0 +1,1 @@
+# CompareOracleDB2PostgreSQL
